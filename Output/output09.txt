@@ -1,0 +1,3 @@
+['bir xonali sonlar:5', 'bir xonali sonlar:3', 'bir xonali sonlar:7', 'bir xonali sonlar:2', 'bir xonali sonlar:4', 'bir xonali sonlar:8']
+['ikki xonali sonlar:10', 'ikki xonali sonlar:22', 'ikki xonali sonlar:12', 'ikki xonali sonlar:43', 'ikki xonali sonlar:65', 'ikki xonali sonlar:76']
+['uch xonali sonlar:534', 'uch xonali sonlar:532']

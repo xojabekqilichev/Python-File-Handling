@@ -1,0 +1,1 @@
+Top reyting: ['Malika', '5'] (['Nigora', '5'] ball)

@@ -1,0 +1,5 @@
+Talaba: Ali, Ball: 4
+Talaba: Malika, Ball: 5
+Talaba: Sardor, Ball: 3
+Talaba: Nigora, Ball: 5
+Talaba: Bekzod, Ball: 4
